@@ -1,29 +1,8 @@
-:coffee: &emsp;Connect with me!
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mir.labib.hossain/) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-labib-hossain-775b321aa/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mir.labib_/) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MirLabibHossain) 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirlabibhossain99@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-:basketball: &emsp;Things I code with now
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Mir-Labib-Hossain/static-projects---snippets---problem-solving/tree/main/js/snippets) 
-
-![Svelte Badge](https://img.shields.io/badge/Svelte-1DA1F2?style=for-the-badge&logo=Svelte&logoColor=white)
-![Svelte Badge](https://img.shields.io/badge/Svelte-1DA1F2?style=for-the-badge&logo=Svelte&logoColor=white)
-[![Vite Badge](https://img.shields.io/badge/vite-A14AED?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
-[![Redux Badge](https://img.shields.io/badge/Redux-7447B2?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Mir-Labib-Hossain)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1877F2?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
-
-:gift: &emsp;Extra
-
-[![Laravel Badge](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=Laravel&logoColor=white)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce)
-[![Jest Badge](https://img.shields.io/badge/Jest-FF0000?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
-[![Python Badge](https://img.shields.io/badge/Python-4EA94B?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Mir-Labib-Hossain/multiple-nation-currency-converter)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=F05032)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce)
-[![Flask Badge](https://img.shields.io/badge/Flask-FF0000?style=for-the-badge&logo=Flask&logoColor=white)](https://github.com/Mir-Labib-Hossain/university-management-system)
-[![PHP Badge](https://img.shields.io/badge/PHP-1877F2?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce) 
-[![Jinja Badge](https://img.shields.io/badge/Jinja-white?style=for-the-badge&logo=Jinja&logoColor=FF0000)](https://github.com/Mir-Labib-Hossain/university-management-system)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
