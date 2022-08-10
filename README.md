@@ -10,8 +10,9 @@
 :basketball: &emsp;Things I code with now
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Mir-Labib-Hossain/static-projects---snippets---problem-solving/tree/main/js/snippets) 
-[![Tailwind Badge](https://img.shields.io/badge/-Tailwind-007acc?style=for-the-badge&labelColor=black&logo=tailwind&logoColor=007acc)](https://github.com/Mir-Labib-Hossain/E-Commerce-with-cart) 
+
 ![Svelte Badge](https://img.shields.io/badge/Svelte-1DA1F2?style=for-the-badge&logo=Svelte&logoColor=white)
+![Tailwind Badge](https://img.shields.io/badge/Tailwind-1DA1F2?style=for-the-badge&logo=Tailwind&logoColor=white)
 [![Vite Badge](https://img.shields.io/badge/vite-A14AED?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
 [![Redux Badge](https://img.shields.io/badge/Redux-7447B2?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Mir-Labib-Hossain)
