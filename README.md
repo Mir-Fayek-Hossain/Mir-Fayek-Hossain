@@ -11,14 +11,11 @@
 
 :basketball: &emsp;Things I code with now
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Mir-Labib-Hossain/static-projects---snippets---problem-solving/tree/main/js/snippets) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/Mir-Labib-Hossain/E-Commerce-with-cart) 
-[![Vite Badge](https://img.shields.io/badge/vite-A14AED?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
 ![Svelte Badge](https://img.shields.io/badge/Sveltekit-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-
-
-
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/Mir-Labib-Hossain/E-Commerce-with-cart) 
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Mir-Labib-Hossain/static-projects---snippets---problem-solving/tree/main/js/snippets) 
+[![Vite Badge](https://img.shields.io/badge/vite-A14AED?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Mir-Labib-Hossain)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1877F2?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 
