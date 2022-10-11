@@ -1,12 +1,5 @@
 
 
-:coffee: &emsp;Connect with me!
-
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fayek.hossain.5) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-fayek-49920a233/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fayekhossain?igshid=YmMyMTA2M2Y=) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mirfayekhossain) 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirfayekhossain@gmail.com)
 
 
 :basketball: &emsp;Things I code with now
@@ -32,3 +25,10 @@
 [![Flask Badge](https://img.shields.io/badge/Flask-FF0000?style=for-the-badge&logo=Flask&logoColor=white)](https://github.com/Mir-Fayek-Hossain/lab-management-system-jinja2)
 [![PHP Badge](https://img.shields.io/badge/PHP-1877F2?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/Mir-Fayek-Hossain/ecom-cart-system-Laravel8-PHP-Ajax) 
 [![Jinja Badge](https://img.shields.io/badge/Jinja-white?style=for-the-badge&logo=Jinja&logoColor=FF0000)](https://github.com/Mir-Fayek-Hossain/lab-management-system-jinja2)
+:coffee: &emsp;Connect with me!
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fayek.hossain.5) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-fayek-49920a233/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fayekhossain?igshid=YmMyMTA2M2Y=) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mirfayekhossain) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirfayekhossain@gmail.com)
