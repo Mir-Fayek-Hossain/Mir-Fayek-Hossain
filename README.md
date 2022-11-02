@@ -4,7 +4,7 @@
 
 :basketball: &emsp;Things I code with now
 
-[![Svelte Badge](https://img.shields.io/badge/Sveltekit-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)](#)
+[![Svelte Badge](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
