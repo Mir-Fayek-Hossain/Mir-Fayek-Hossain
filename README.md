@@ -9,6 +9,7 @@
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Vite Badge](https://img.shields.io/badge/vite-A14AED?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Mir-Fayek-Hossain)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1877F2?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
